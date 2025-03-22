@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     <ul>
                         <li>Saif</li>
                         <li>Joj</li>
-                        <li>Tulin</li>
-                        <li>rajib</li>
+                        <li>Rifat</li>
+                        <li>Rajib</li>
                         <li>Nayeem</li>
                         <li>Rafi</li>
                         <li>Saif(junior)</li>
